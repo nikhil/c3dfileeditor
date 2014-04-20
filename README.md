@@ -23,7 +23,7 @@ BTK is the exception here. I was not able to get btk working through pip. BTK al
 
 Then run:
 
-<pre> yum localinstall <packagename>.rpm </pre>
+<pre> yum localinstall packagename.rpm </pre>
 
 ## Running it
 
