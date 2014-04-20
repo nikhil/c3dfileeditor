@@ -1,4 +1,4 @@
-c3dfileEditor
+c3dfileeditor
 =============
 
 A a script that reads, plots data as well as modifies c3d files using the btk library.
